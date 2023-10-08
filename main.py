@@ -18,7 +18,7 @@ from decimal import Decimal
 import hashlib
 
 from typing import Optional
-import bcrypt
+
 import models
 from models import User, Admin, FundEntry
 
