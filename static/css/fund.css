@@ -21,7 +21,7 @@ label{
   width: 50%;
   height: 70%;
   margin-left: 300px;
-  margin-top: 3%;
+  margin-top: 15%;
   border-radius: 20px;
   box-shadow: 10px 10px 15px rgba(0,0,0,0.05);
 
@@ -86,14 +86,14 @@ input[type="checkbox"]{
 /*amount and account*/
 input[type="date"], input[type="text"] {
   height: 40px; /* set the same height for both elements */
-  width: 200px; /* set the same width for both elements */
+  width: 275px; /* set the same width for both elements */
   border-radius: 6px;
   padding: 10px;
   margin-left: 10px;
   font-size: 15px;
   margin-top: 10px;
-  margin-right: 30px;
-  margin-left: 150px;
+  margin-right: 20px;
+  margin-left: 85px;
 }
 input[type="date"]{
  cursor: pointer;

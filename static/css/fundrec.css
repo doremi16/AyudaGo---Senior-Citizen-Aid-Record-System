@@ -8,13 +8,14 @@ body{
   .table_header p{
     font-size: 20px;
     margin-top: 20px;
-    margin-left: 85px;
+    margin-left: 95px;
     font-family: 'Times New Roman', Times, serif;
   }
   .search{
-    height: 30px;
+    width: 330px;
+    height: 35px;
     padding: 10px ;
-    margin: 0 10px;
+    /* margin: 0 10px; */
     outline: none;
     border: 1px solid #f77f00;
     border-radius: 6px;

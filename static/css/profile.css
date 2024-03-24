@@ -13,13 +13,14 @@ body{
     font-weight: bold;
   }
   .search{
-    height: 30px;
+    width: 268px;
+    height: 40px;
     padding: 10px ;
-    margin: 0 10px;
+    /* margin: 0 10px; */
     outline: none;
     border: 1px solid #f77f00;
     border-radius: 6px;
-    margin-left: 740px;
+    margin-left: 490%;
     margin-top: 15px;
   }
 

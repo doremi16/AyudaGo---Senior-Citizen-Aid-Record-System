@@ -12,7 +12,7 @@ body {
 	border-radius: 25px;
 	padding: 15px;
 	padding-top: 10px;
-	margin-top: -50px;
+	margin-top: 20px;
 }
   
   h1 {
@@ -43,7 +43,7 @@ body {
     cursor: pointer;
     outline: none;
     margin-left: 40%;
-    margin-top: 2%;
+    margin-top: 5%;
       }
     button:hover {
       background-color: #F68B2B;

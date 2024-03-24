@@ -10,8 +10,8 @@ body{
 	border-radius: 25px;
 	padding: 15px;
 	padding-top: 10px;
-	margin-top: 55px;
-  margin-left: 130px;
+	margin-top: 150px;
+    margin-left: 130px;
 }
   .form-reg h1{
 	color: black;
@@ -91,8 +91,8 @@ body{
 	.row input[type="text"], input[type="date"]{
 		margin-left: 30px;
 		text-align: left;
-       width: 200px; 
-	   background-color: white;
+        width: 200px; 
+	    background-color: white;
 	}
 	select{
 		margin-left: 30px;
@@ -137,12 +137,12 @@ body{
     margin-left: 5px;
   }
   .strt{
-    margin-left: 45px;
+    margin-left: 38px;
     width: 200px;
   }
   .brgy{
-margin-left: 10px;
-width: 200px;
+	margin-left: 5px;
+	width: 200px;
   }
   /*street*/
 .text{
