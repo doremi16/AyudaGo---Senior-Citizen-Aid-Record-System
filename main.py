@@ -86,7 +86,8 @@ async def login(
     password: str = Form(...),
     db: Session = Depends(get_db)
 ):
-    user = db.query(User).filter_by(user_email=username, user_password=password).all()
+    # user = db.query(User).filter_by(user_username=username, user_password=password).first()
+    user=db.query(User)
     if user:
         redirect_url = "/userhome"
         return RedirectResponse(url=redirect_url)
